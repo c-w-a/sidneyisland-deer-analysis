@@ -41,7 +41,7 @@ plt.vlines(x=3.65, ymin=84, ymax=(target_pe_max_estimated_deer_population + targ
 plt.hlines(y=84, xmin=3.6, xmax=3.7, colors='#fd1717')
 plt.hlines(y=(target_pe_max_estimated_deer_population + target_pe_min_estimated_deer_population) / 2, xmin=3.6, xmax=3.7, colors='#fd1717')
 
-plt.title('Fallow Deer Eradication on Sidney Island : Phase 1 Outcome')
+plt.title('Fallow & Native Black-Tailed Deer Eradication on Sidney Island : Phase 1 Outcome')
 plt.ylabel('Number of Deer')
 plt.legend()
 
